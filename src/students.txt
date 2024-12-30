@@ -1,0 +1,6 @@
+1233 Ahmet Korkmaz veriyapilari 40 matematik 50
+1254 Mehmet Yener matematik 35 fizik 57 veriyapilari 80
+1265 Zehra Caner matematik 34 fizik 90
+1116 Onur Yanar veriyapilari 90 matematik 60 fizik 60 tarih 40
+1344 Ayse Can tarih 40 veriyapilari 50 fizik 90
+1375 ibrahim Tatar matematik 30
